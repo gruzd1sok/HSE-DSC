@@ -11,6 +11,6 @@ Server receives JSON in format: { number: Int }
 
 <img src="https://github.com/gruzd1sok/HSE-DSC/raw/main/UML/DiagramSerial.png" alt="main app">
 
-## Sequency
+## Sequence
 
-<img src="https://github.com/gruzd1sok/HSE-DSC/raw/main/UML/DiagramSequence.png" alt="main app">
+<img src="https://github.com/gruzd1sok/HSE-DSC/raw/main/UML/SequenceDiagram.png" alt="main app">
