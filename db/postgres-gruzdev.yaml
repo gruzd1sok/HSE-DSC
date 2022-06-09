@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: postgres-gruzdev-config
+  labels:
+    app: postgres-gruzdev
+data:
+  POSTGRES_DB: gruzdevdb
+  POSTGRES_USER: gruzdev
+  POSTGRES_PASSWORD: gruzdev
