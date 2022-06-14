@@ -1,13 +1,13 @@
 version: '3'
 services:
     db:
-        image: uuovv/dbserver
+        image: gruzdev/dbserver
         expose:
             - "5432"
         environment:
             - POSTGRES_PASSWORD=postgres
     web:
-        image: uuovv/webserver
+        image: gruzdev/webserver
         ports:
             - "2000:2000"
         environment:
