@@ -1,4 +1,4 @@
-# HSE-DSC achievement #2
+# Achievement #2
 
 Make with: Swift, Vapor framework, Fluent ORM for PostgreSQL, PostgreSQL 🚀
 
