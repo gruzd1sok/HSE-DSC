@@ -65,12 +65,21 @@
         }
       },
       {
+        "package": "postgres-kit",
+        "repositoryURL": "https://github.com/vapor/postgres-kit",
+        "state": {
+          "branch": null,
+          "revision": "10797f400ff0054cce59a035b3ac37376c0ea4f7",
+          "version": "2.8.0"
+        }
+      },
+      {
         "package": "postgres-nio",
         "repositoryURL": "https://github.com/vapor/postgres-nio.git",
         "state": {
           "branch": null,
-          "revision": "780a510863bfc00b2239b649df4f403080c4bc9c",
-          "version": "1.7.2"
+          "revision": "d648c5b4594ffbc2f6173318f70f5531e05ccb4e",
+          "version": "1.11.0"
         }
       },
       {
