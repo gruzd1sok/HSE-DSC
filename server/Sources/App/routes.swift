@@ -10,7 +10,7 @@ func routes(_ app: Application) throws {
             return "Number < 0. Try 0...N."
         } else {
             if bd.contains(number.number) {
-                return "Error #1. Nums already exists - \(xd)"
+                return "Error #1. Nums already exists."
             } else if bd.contains(number.number + 1) {
                 return "Error #2. Number + 1 already exists, this num - \(number.number + 1)"
             } else {
